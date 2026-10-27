@@ -1,0 +1,7 @@
+cat << 'EOF' > requirements.txt
+kafka-python-ng
+psycopg2-binary
+pandas
+streamlit
+pydantic
+EOF
